@@ -1,7 +1,7 @@
 
 
 ## Overview
-Informal township micro-retail enterprises (spaza shops) play a critical role in local township economies.However, operational management typically relies on memory-based tracking, manual cash handling, and informal inventory counting.Semenya Tuckshop operates as a high-turnover micro-retailer selling fast food (kotas, slap chips), staple perishables, and individual fast-moving consumer goods (FMCG).This project applies formal SDLC and systems analysis frameworks to design an automated POS and inventory management system for a rural micro-retail enterprise.
+Informal micro-retail enterprisesplay a critical role in local township and rural economies.However, operational management typically relies on memory-based tracking, manual cash handling, and informal inventory counting.Semenya Tuckshop operates as a high-turnover micro-retailer selling fast food (kotas, slap chips), staple perishables, and individual fast-moving consumer goods (FMCG).This project applies formal SDLC and systems analysis frameworks to design an automated POS and inventory management system for a rural micro-retail enterprise.
 
 ## Why This Matters
 This project matters because it tackles the overlooked needs of informal micro-retail businesses that operate without adequate technological support despite their significant role in local economies. Existing enterprise systems are not designed for the constraints these businesses face, resulting in inefficiencies that directly affect income and sustainability. By addressing issues such as inventory loss, unrecorded transactions, and operational inaccuracies, the project highlights how appropriate, context-aware solutions can create meaningful economic impact where it is most needed.
