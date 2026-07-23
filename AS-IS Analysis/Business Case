@@ -1,0 +1,36 @@
+## Business Background
+
+Semenya Tuckshop is a rural informal micro-retail business, commonly referred to as a **spaza shop**, located in Tweefontein K, Mpumalanga. Operating since 2008, the business serves the local community by selling fast food, groceries, beverages, prepaid electricity, and other fast-moving consumer goods.
+The business currently relies on manual business processes and standalone tools to manage sales, inventory, supplier ordering, and financial reconciliation. As the business has grown, these manual processes have become increasingly difficult to manage efficiently.
+
+## Business Problem
+
+The current operating model presents several operational challenges:
+- Inventory is managed through manual stock counts, increasing the risk of stock discrepancies.
+- Sales transactions are not integrated with inventory records.
+- Stock replenishment relies on manual monitoring and owner experience.
+- Weekly cash reconciliation is performed manually.
+- Limited operational visibility makes business decision-making difficult.
+These inefficiencies increase operational risk, consume valuable time, and limit the business's ability to scale effectively.
+
+## Business Objective
+To analyse the current business processes and design an integrated Point-of-Sale (POS) and Inventory Management System that improves inventory visibility, transaction accuracy, operational efficiency, and financial control.
+
+## Project Outcome
+The proposed system focuses on the following business processes:
+- Sales processing
+- Inventory management
+- Stock replenishment
+- Supplier management
+- Cash reconciliation
+- Prepaid electricity sales
+
+## Expected Business Benefits
+
+The proposed solution aims to:
+- Improve inventory accuracy through automated stock updates.
+- Reduce manual administrative effort.
+- Support faster and more accurate customer transactions.
+- Improve cash reconciliation and financial reporting.
+- Reduce stock shortages and over-ordering.
+- Provide real-time information to support business decision-making.
