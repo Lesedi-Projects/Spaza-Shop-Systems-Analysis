@@ -8,8 +8,7 @@ Spaza Shops are a vital part of South Africa's economy, yet many still operate w
 This project demonstrates how structured Systems Analysis can be applied to a real-world business by understanding the problem before designing the solution.
 
 ## Project Scope
-This repository documents the end-to-end systems analysis and design process, including:
-
+This project follows the Systems Development Life Cycle (SDLC) from analysing the current business environment through to designing a proposed information system. The deliverables include:
 - Current (AS-IS) process analysis
 - Stakeholder and requirements analysis
 - Use Case Modelling
