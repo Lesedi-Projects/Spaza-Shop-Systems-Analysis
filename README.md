@@ -25,9 +25,3 @@ This repository documents the end-to-end systems analysis and design process, in
 - UML Modelling
 - Process Analysis
 - Solution Design
-
-| Use Case Analysis | Actor and interaction identification |
-| Entity-Relationship Modelling | Data structure design |
-| Process Mapping | AS-IS manual workflow documentation |
-| Automation Assessment | Feasibility scoring of automation opportunities |
-
