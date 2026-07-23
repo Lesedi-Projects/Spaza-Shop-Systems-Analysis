@@ -1,56 +1,31 @@
 
 
-## Overview
-Informal micro-retail enterprisesplay a critical role in local township and rural economies.However, operational management typically relies on memory-based tracking, manual cash handling, and informal inventory counting.Semenya Tuckshop operates as a high-turnover micro-retailer selling fast food (kotas, slap chips), staple perishables, and individual fast-moving consumer goods (FMCG).This project applies formal SDLC and systems analysis frameworks to design an automated POS and inventory management system for a rural micro-retail enterprise.
+##  Overview
+Semenya Tuckshop is a rural informal micro-retail business, commonly referred to as a spaza shop in South Africa, located in Tweefontein K, Mpumalanga, that has operated since 2008 using predominantly manual business processes. Sales transactions, inventory management, stock replenishment, and pricing rely on manual record keeping, operational knowledge, and standalone tools rather than an integrated information system.This project applies Systems Analysis principles to analyse the business domain, understand existing operations, identify system requirements, and design an integrated Point-of-Sale (POS) and inventory management solution.Rather than focusing on software development, the project demonstrates how structured systems analysis techniques can be used to translate business needs into a well-designed information system that supports operational efficiency and better decision-making.
 
 ## Why This Matters
-This project matters because it tackles the overlooked needs of informal micro-retail businesses that operate without adequate technological support despite their significant role in local economies. Existing enterprise systems are not designed for the constraints these businesses face, resulting in inefficiencies that directly affect income and sustainability. By addressing issues such as inventory loss, unrecorded transactions, and operational inaccuracies, the project highlights how appropriate, context-aware solutions can create meaningful economic impact where it is most needed.
+Spaza Shops are a vital part of South Africa's economy, yet many still operate without systems that support efficient day-to-day operations.
+This project demonstrates how structured Systems Analysis can be applied to a real-world business by understanding the problem before designing the solution.
 
-## Business Context
-- **Business name:** Semenya Tuckshop
-- **Location:** Tweefontein K, Sesakhile, Mpumalanga
-- **Business type:** Informal micro-retailer
-- **Operating since:** 2008
-- **Current technology:** Cash register, FNB speed point
-- **Current inventory management:** Manual stock taking
-- **Stock model:** Bulk purchasing, unit-level selling
+## Project Scope
+This repository documents the end-to-end systems analysis and design process, including:
 
-## Methodology
-This project applies the following frameworks and techniques 
-studied in the UCT Honours BASA programme:
+- Current (AS-IS) process analysis
+- Stakeholder and requirements analysis
+- Use Case Modelling
+- Domain Class Diagram
+- System Sequence Diagrams
+- Future (TO-BE) system design
+- Proposed information system
 
-- **Systems Development Life Cycle (SDLC)** — structured 
-  analysis from current state through to system design
-- **Agile methodology** — iterative, user-centred approach 
-  to requirements and solution design
-- **Use Case Analysis** — identifying actors, use cases, 
-  and system interactions
-- **Use Case Narratives** — detailed description of how 
-  each system interaction unfolds
-- **User Stories** — Agile format requirements capturing 
-  what each actor needs the system to do
-- **Data Modelling** — entity identification and 
-  relationship mapping for a proposed system
-- **Process Mapping** — AS-IS manual operations documented 
-  and TO-BE automated workflows designed
+## Skills Demonstrated
+- Systems Analysis
+- Requirements Engineering
+- SDLC
+- UML Modelling
+- Process Analysis
+- Solution Design
 
-
-## Project Deliverables
-
-### 1. AS-IS Analysis
-### 2. Use Case Diagram
-### 3. Use Case Narratives
-### 4. User Stories (Agile Format)
-### 5. Data Model
-### 6. Automation Opportunities Identified
-### 7. Recommended System Approach
-
-
-## Frameworks Applied
-| Framework | Application |
-|---|---|
-| SDLC | Structured analysis from AS-IS through system design |
-| Agile / SCRUM | Sprint-based delivery planning and user stories |
 | Use Case Analysis | Actor and interaction identification |
 | Entity-Relationship Modelling | Data structure design |
 | Process Mapping | AS-IS manual workflow documentation |
